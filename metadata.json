@@ -1,0 +1,6 @@
+{
+  "name": "Mirakshi Botanicals",
+  "description": "Premium herbal hair oil by Mirakshi Botanicals (formerly Meera Herbal Hair Oil). Traditionally prepared with 100% natural ingredients for everyday scalp and hair care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

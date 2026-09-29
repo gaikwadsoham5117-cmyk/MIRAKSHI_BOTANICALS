@@ -1,0 +1,69 @@
+[
+  {
+    "id": "mira-oil-100ml",
+    "name": "Mira Herbal Hair Oil",
+    "brand": "Mirakshi Botanicals",
+    "previousBrand": "Meera Herbal Hair Oil",
+    "size": "100ml",
+    "price": 349,
+    "codCharge": 50,
+    "codTotal": 399,
+    "inStock": true,
+    "stockCount": 150,
+    "description": "Home-made hair oil prepared using 100% natural ingredients. Traditionally slow-infused using time-honored Ayurvedic principles to nourish the scalp, care for hair roots, and bring natural softness and shine.",
+    "badge": "🌿 100% Natural Hair Care",
+    "benefits": [
+      "Helps reduce hair fall with regular gentle scalp nourishment",
+      "Helps reduce discomfort associated with dandruff & dry scalp itching",
+      "Supports healthy-looking hair growth & natural hair vitality",
+      "Helps make hair noticeably soft, shiny, and stronger from roots to tips"
+    ],
+    "imageUrl": "/assets/mira_hair_oil_bottle_1790616775030.jpg",
+    "sku": "MB-MIRA-100ML",
+    "category": "Herbal Hair Care"
+  },
+  {
+    "id": "mira-oil-200ml",
+    "name": "Mira Herbal Hair Oil (Family Pack)",
+    "brand": "Mirakshi Botanicals",
+    "previousBrand": "Meera Herbal Hair Oil",
+    "size": "200ml",
+    "price": 599,
+    "codCharge": 50,
+    "codTotal": 649,
+    "inStock": true,
+    "stockCount": 85,
+    "description": "Double volume economy pack of our signature botanical hair oil. Slow-cooked with 14 organic Ayurvedic herbs for complete scalp vitality and long-lasting hair strength.",
+    "badge": "⭐ Best Value • Save ₹99",
+    "benefits": [
+      "Economical 200ml bottle for 2-3 months daily hair wellness",
+      "Intense nourishment for damaged, frizzy, and thinning hair",
+      "Enriched with cold-pressed coconut oil, sesame, amla & bhringraj"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80",
+    "sku": "MB-MIRA-200ML",
+    "category": "Value Packs"
+  },
+  {
+    "id": "mira-rosemary-100ml",
+    "name": "Mira Rosemary & Bhringraj Scalp Drops",
+    "brand": "Mirakshi Botanicals",
+    "previousBrand": "Meera Herbal Hair Oil",
+    "size": "100ml",
+    "price": 399,
+    "codCharge": 50,
+    "codTotal": 449,
+    "inStock": true,
+    "stockCount": 60,
+    "description": "Targeted root-strengthening elixir infused with fresh rosemary extract, bhringraj, and methi seeds designed to awaken dormant follicles and soothe scalp irritation.",
+    "badge": "✨ Root Energizer",
+    "benefits": [
+      "Pure steam-distilled rosemary infusion with cold-pressed botanical base",
+      "Calms itchy dry scalp and persistent flaky dandruff",
+      "Supports micro-circulation across hair follicles during scalp massage"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1608248597359-009772c7247a?auto=format&fit=crop&w=800&q=80",
+    "sku": "MB-ROSE-100ML",
+    "category": "Targeted Scalp Care"
+  }
+]
